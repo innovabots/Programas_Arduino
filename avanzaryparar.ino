@@ -3,7 +3,7 @@
 #include <Servo.h>
 int vuelta;
 int nuevaVariable;
-int variavlenum2;
+int variablenum3;
 //motor
  int mena = 3;
  int pinIN1 = 6;
