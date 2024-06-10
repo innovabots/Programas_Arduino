@@ -4,6 +4,7 @@
 int vuelta;
 int nuevaVariable;
 int variablenum3;
+int x;
 //motor
  int mena = 3;
  int pinIN1 = 6;
