@@ -10,6 +10,7 @@ int variablenum3;
  int pinIN2 = 7;
  int pinIN3 = 8;
  int pinIN4 = 9;
+ int variableH;
  //servos
 Servo Arthur;
 
