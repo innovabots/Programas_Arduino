@@ -11,7 +11,7 @@ int x;
  int pinIN2 = 7;
  int pinIN3 = 8;
  int pinIN4 = 9;
- int variableH;
+ int variableH2;
  //servos
 Servo Arthur;
 
