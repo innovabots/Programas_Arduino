@@ -2,7 +2,7 @@
 const int tgr = 13; //pin triger : envia imagen
 const int  echo = 12 ; //  pin echo :imagen leida
 int dist;
-int T;
+int t;
 
 void SenDist(){
     long T; //tiempo que tarda en llegar echo
